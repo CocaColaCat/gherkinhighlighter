@@ -5,7 +5,7 @@ I combined [Michael Hall](https://github.com/bankofcanada/gherkin-syntax-for-syn
 with the solution from [this post](http://wordpress.org/support/topic/plugin-gherkin-syntax-for-syntaxhighlighter-evolved-shbrushgherkinjs-is-empty).
 And I edited in gherkin.php. It works. 
 
-How to use:
-1. download the zip
+How to use:  
+1. download the zip   
 2. wd-admin -> Plugins -> Add New -> Upload -> Activate
 
